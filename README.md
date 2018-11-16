@@ -17,6 +17,8 @@ aaaaaa
 
 ddddd
 
+eeeee
+
 Both samples and snippets should be buildable projects. Those projects should build and
 run on the widest set of platforms possible for the given sample. In practice, that means building .NET Core-based console applications where possible. Samples that are specific to the web or a UI framework should add those tools as needed. Examples include web applications, mobile apps, WPF or WinForms apps, and so on.
 
