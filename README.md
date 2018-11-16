@@ -13,6 +13,8 @@ There are two classes of code in this repository:
 - **Samples** represent programs that demonstrate application or library scenarios. These samples are typically larger than snippets, and often use more than one technology, feature, or toolkit. The readme.md file for each sample will refer to the article so that
 you can read more about the concepts covered in each sample.
 
+aaaaaa
+
 Both samples and snippets should be buildable projects. Those projects should build and
 run on the widest set of platforms possible for the given sample. In practice, that means building .NET Core-based console applications where possible. Samples that are specific to the web or a UI framework should add those tools as needed. Examples include web applications, mobile apps, WPF or WinForms apps, and so on.
 
